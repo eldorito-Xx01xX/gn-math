@@ -29,7 +29,8 @@ gn-math is the best unblocked games site to play at school.
 - static site so easily deployable
 - works in file:
 - custom software to get almost ANY game
-# fork features:
--no ads and tracking
 
 JOIN OUR DISCORD: https://discord.gg/NAFw4ykZ7n
+
+# fork features:
+-no ads and tracking
